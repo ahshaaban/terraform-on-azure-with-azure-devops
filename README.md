@@ -1,1 +1,0 @@
-# terraform-on-azure-with-azure-devops
