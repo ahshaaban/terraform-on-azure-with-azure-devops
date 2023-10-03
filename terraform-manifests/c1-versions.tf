@@ -28,3 +28,4 @@ provider "azurerm" {
 
 
 # comment to test CI/CD
+# test QA, Stage, Prod environments
